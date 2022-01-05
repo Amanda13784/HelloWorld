@@ -1,2 +1,5 @@
 # HelloWorld
-First Git Repository 01-04
+SAHM of three
+Aspiring Developer
+Forever Student
+Working with Backend Development languages Python, JAVA, C#
