@@ -1,5 +1,5 @@
 # HelloWorld
-SAHM of three
-Aspiring Developer
+SAHM of Three, 
+Aspiring Developer and
 Forever Student
-Working with Backend Development languages Python, JAVA, C#
+
